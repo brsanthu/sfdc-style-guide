@@ -5,6 +5,11 @@ This document is colloborative (hopefully) effort from the community to define/d
 
 This style is not necessarily the only way and so you may define your own that suits you/your company. While document takes a stand on some of the very **opinionated** standards like tab for indentataion, tab width as 4 spaces, Java style cursor placement etc., which you may not agree with and that is completely fine. So please feel free to take the bits you like and adopt your own.
 
+# Apex Coding (Classes, Triggers, Controllers)
+## Keywords
+All keywords must use lower case, that means never write them in upper case or Upper Camel case etc.
+
+
 # Classes
 ## Namespace
 Salesforce could have done a better job to provide the namespace capability (may be similar to Java packages). I know there is packages but it is not that easy to use.
